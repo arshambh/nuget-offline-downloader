@@ -1,0 +1,13 @@
+# Downloaded packages (the tool's default output folder)
+packages/
+*.nupkg
+*.nupkg.part
+
+# C# file-based app build output
+obj/
+bin/
+dist/
+
+# Python
+__pycache__/
+*.py[cod]
